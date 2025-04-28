@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6434c80e-d2e5-452e-81a6-d6deefaae11b)
+![image](https://github.com/user-attachments/assets/6434c80e-d2e5-452e-81a6-d6deefaae11b width="400")
 
 <h1 align="center">Hi 👋, I'M Mujtaba Sheikh</h1>
 <h3 align="center">I Am a Web and Mobile Application Development Student atcurrently exploring HTML CSS JavaScript Git & GitHub My goal is to become a Full Stack Developer! SMIT</h3>
